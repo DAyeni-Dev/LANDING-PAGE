@@ -189,7 +189,10 @@ body {
      border-radius: 12px;
      box-shadow: 0 2px 15px rgba(0,0,0,0.08);
    }
- 
+
+  .h2 {
+    color: blue;
+  }
    .card h3 {
      color: blue;}
      .card h4{
