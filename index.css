@@ -24,7 +24,7 @@ body {
   position: fixed;
   top: 0;
   left: 0;
-  width: 100%;
+  width: 40%;
   height: 8VH;
   justify-content: flex-end;
   list-style-type: none;
@@ -193,6 +193,11 @@ body {
   .h2 {
     color: blue;
   }
+.card h3 {
+     color: blue;}
+     .card h4{
+         color: rgb(88, 115, 196);
+     }
 form {
    background-color: white;
    display: flex;
